@@ -1,0 +1,23 @@
+commit f6175406ea687c67d35a0b52026e1fc7bb9762a7
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Thu Mar 21 12:32:09 2019 -0400
+
+    Final Commit. Completed.
+
+commit f4b45fa25d30d82c9c62285b32b60c4a3366fb63
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Tue Mar 19 00:48:20 2019 -0400
+
+    Initial completion of most of the functions. Need to complete last one.
+
+commit b205b79aab2d4ecc451661585799374b251126c0
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Mon Mar 18 01:25:20 2019 -0400
+
+    Wrote code for half the functions. Need to do other half.
+
+commit a443d483dc70c50e5345964d1f552eeb5ac3d413
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Thu Mar 14 00:04:44 2019 -0400
+
+    Initial Commit, set up declarations
